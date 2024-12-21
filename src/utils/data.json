@@ -1,0 +1,87 @@
+{
+    "aboutPage": {
+      "title": {
+        "en": "About Us",
+        "hi": "हमारे बारे में",
+        "es": "Sobre Nosotros",
+        "fr": "À Propos de Nous",
+        "de": "Über Uns",
+        "ja": "私たちについて"
+      },
+      "description": {
+        "en": "We are a globally recognized organization with a passion for innovation and excellence. Over the years, we have transformed industries with our cutting-edge technology and customer-centric approach. From humble beginnings to becoming an industry leader, our journey is defined by a commitment to quality, integrity, and sustainability. Our team works tirelessly to deliver solutions that not only meet but exceed expectations, ensuring that we remain at the forefront of industry trends.",
+        "hi": "हम एक वैश्विक स्तर पर मान्यता प्राप्त संगठन हैं जो नवाचार और उत्कृष्टता के प्रति समर्पित हैं। वर्षों से, हमने उन्नत तकनीक और ग्राहक-केंद्रित दृष्टिकोण के साथ उद्योगों को बदल दिया है। सामान्य शुरुआत से लेकर उद्योग में अग्रणी बनने तक, हमारी यात्रा गुणवत्ता, ईमानदारी और स्थिरता के प्रति प्रतिबद्धता से परिभाषित है। हमारी टीम लगातार ऐसे समाधान प्रदान करने के लिए काम करती है जो न केवल अपेक्षाओं को पूरा करते हैं बल्कि उन्हें पार भी करते हैं।",
+        "es": "Somos una organización reconocida a nivel mundial con una pasión por la innovación y la excelencia. A lo largo de los años, hemos transformado industrias con nuestra tecnología de vanguardia y nuestro enfoque centrado en el cliente. Desde comienzos humildes hasta convertirnos en líderes de la industria, nuestro viaje está definido por un compromiso con la calidad, la integridad y la sostenibilidad. Nuestro equipo trabaja incansablemente para ofrecer soluciones que no solo cumplan sino superen las expectativas, asegurando que nos mantengamos a la vanguardia de las tendencias de la industria.",
+        "fr": "Nous sommes une organisation reconnue mondialement, animée par une passion pour l'innovation et l'excellence. Au fil des ans, nous avons transformé des industries grâce à notre technologie de pointe et notre approche centrée sur le client. De débuts modestes à une position de leader, notre parcours est défini par un engagement envers la qualité, l'intégrité et la durabilité. Notre équipe travaille sans relâche pour fournir des solutions qui dépassent les attentes, nous assurant de rester à l'avant-garde des tendances du secteur.",
+        "de": "Wir sind eine weltweit anerkannte Organisation mit einer Leidenschaft für Innovation und Exzellenz. Im Laufe der Jahre haben wir Branchen mit unserer fortschrittlichen Technologie und kundenorientierten Ansatz verändert. Von bescheidenen Anfängen bis hin zum Branchenführer wird unser Weg durch ein Engagement für Qualität, Integrität und Nachhaltigkeit definiert. Unser Team arbeitet unermüdlich daran, Lösungen zu liefern, die nicht nur Erwartungen erfüllen, sondern übertreffen, und stellt sicher, dass wir immer an der Spitze der Branchentrends bleiben.",
+        "ja": "私たちは、イノベーションと卓越性への情熱を持つ、世界的に認められた組織です。長年にわたり、最先端の技術と顧客中心のアプローチで業界を変革してきました。控えめな始まりから業界のリーダーになるまで、私たちの旅は品質、誠実さ、持続可能性への取り組みによって定義されています。私たちのチームは、期待を超えるソリューションを提供し、業界のトレンドの最前線に立ち続けるために懸命に取り組んでいます。"
+      },
+      "values": {
+        "en": [
+          "Innovation",
+          "Integrity",
+          "Customer Focus",
+          "Sustainability",
+          "Teamwork",
+          "Excellence"
+        ],
+        "hi": [
+          "नवाचार",
+          "ईमानदारी",
+          "ग्राहक केंद्रितता",
+          "सततता",
+          "टीमवर्क",
+          "उत्कृष्टता"
+        ],
+        "es": [
+          "Innovación",
+          "Integridad",
+          "Enfoque en el cliente",
+          "Sostenibilidad",
+          "Trabajo en equipo",
+          "Excelencia"
+        ],
+        "fr": [
+          "Innovation",
+          "Intégrité",
+          "Focus client",
+          "Durabilité",
+          "Travail d'équipe",
+          "Excellence"
+        ],
+        "de": [
+          "Innovation",
+          "Integrität",
+          "Kundenorientierung",
+          "Nachhaltigkeit",
+          "Teamarbeit",
+          "Exzellenz"
+        ],
+        "ja": [
+          "イノベーション",
+          "誠実",
+          "顧客重視",
+          "持続可能性",
+          "チームワーク",
+          "卓越性"
+        ]
+      },
+      "teamMessage": {
+        "en": "Meet our talented and diverse team of professionals who bring passion, creativity, and expertise to everything we do.",
+        "hi": "हमारी प्रतिभाशाली और विविध टीम से मिलें, जो हर काम में जुनून, रचनात्मकता और विशेषज्ञता लाती है।",
+        "es": "Conozca a nuestro talentoso y diverso equipo de profesionales que aportan pasión, creatividad y experiencia a todo lo que hacemos.",
+        "fr": "Rencontrez notre équipe talentueuse et diversifiée de professionnels qui apportent passion, créativité et expertise à tout ce que nous faisons.",
+        "de": "Lernen Sie unser talentiertes und vielfältiges Team von Fachleuten kennen, die Leidenschaft, Kreativität und Fachwissen in alles einbringen, was wir tun.",
+        "ja": "私たちが行うすべてに情熱、創造性、専門知識をもたらす、才能豊かで多様なチームに会いましょう。"
+      },
+      "contactCTA": {
+        "en": "Contact us today to learn more about our journey, our values, and the services we offer.",
+        "hi": "हमारी यात्रा, हमारे मूल्य और हमारी सेवाओं के बारे में अधिक जानने के लिए आज ही हमसे संपर्क करें।",
+        "es": "Contáctenos hoy para obtener más información sobre nuestro viaje, nuestros valores y los servicios que ofrecemos.",
+        "fr": "Contactez-nous dès aujourd'hui pour en savoir plus sur notre parcours, nos valeurs et les services que nous proposons.",
+        "de": "Kontaktieren Sie uns noch heute, um mehr über unseren Weg, unsere Werte und die von uns angebotenen Dienstleistungen zu erfahren.",
+        "ja": "私たちの旅、価値観、提供するサービスについて詳しく知るには、ぜひ今日お問い合わせください。"
+      }
+    }
+  }
+  

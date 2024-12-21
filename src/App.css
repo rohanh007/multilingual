@@ -1,0 +1,15 @@
+.app{
+  padding: 2px;
+}
+.selectcontainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+
+}
+.selectcontainer select{
+  width: 160px;
+  height: 50px;
+
+}
