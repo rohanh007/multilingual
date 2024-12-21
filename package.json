@@ -1,6 +1,7 @@
 {
   "name": "multilingual",
   "version": "0.1.0",
+  "homepage": "https://rohanh007.github.io/multilingual",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
